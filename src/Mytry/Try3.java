@@ -7,5 +7,6 @@ package Mytry;
 public class Try3 {
     public static void main(String[] args) {
         System.out.println("hello");
+        System.out.println("hello git3");
     }
 }
